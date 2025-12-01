@@ -25,17 +25,28 @@ public Presentacion(){
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
   <img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/SpringBot-green?style=flat&logo=spring&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue.svg?logo=mysql&logoColor=white">
   <img alt="Chakra" src="https://img.shields.io/badge/Chakra-%2348E5A6?style=flat&logo=Chakraui&logoColor=white">
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%23509EEF?logo=tailwind-css&labelColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-black?logo=nestjs&logoColor=red">
+  <img alt="Express" src="https://img.shields.io/badge/Express-404D59?logo=express&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+<img alt="Prisma" src="https://img.shields.io/badge/Prisma-0C344B?logo=prisma&logoColor=white">
+<img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white">
+<img alt="Astro" src="https://img.shields.io/badge/Astro-000000?logo=astro&logoColor=FDFDFD">
+
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
+
 </div>
 
 <h2 align="center"> Softwares 🔭 </h2>
 <div align="center">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visualstudiocode&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/NetBeans-purple?style=flat&logo=apache&logoColor=white">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Intellij-%234261F7?style=flat&logo=intellij%20idea">
@@ -49,7 +60,7 @@ public Presentacion(){
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
   <img alt="Railway" src="https://img.shields.io/badge/Railway-6A5ACD.svg?logo=Railway&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-FFA000?logo=Firebase&color=FE9900">
-  <img alt="Static Badge" src="https://img.shields.io/badge/cloudflare-%23F1F2F1?logo=cloudflare">
+  <img alt="Cloudflare-" src="https://img.shields.io/badge/Cloudflare-%23F1F2F1?logo=Cloudflare">
 </div>
 
 <div align="center">

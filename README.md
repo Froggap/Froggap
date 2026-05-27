@@ -11,7 +11,7 @@
 
 public Presentacion(){
    * ⚡ `I'm`: **21 years old**,
-   * 😄 `I’m currently learning`: **Angular and Go**,
+   * 😄 `I’m currently learning`: **Go**,
    * ❤️ `I love`: **Play videogames**  ,
    * 💻 `Favorite lang`: **TypeScript and Java**  
 }
